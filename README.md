@@ -12,17 +12,17 @@ Currently, the plan is to run it in pure javascript
 
 # Example Syntax
 Example syntax is like:
-  <input type="number" value="123" />
+  `<input type="number" value="123" />`
   
 or
   
-  <input type="text" t="number" value="123" />
+  `<input type="text" t="number" value="123" />`
   
 ### Under consideration:
  
-  <input type="text" number value="123" />
+  `<input type="text" number value="123" />`
   
 or 
   
-  <input type="text" number="number" value="123" />
+  `<input type="text" number="number" value="123" />`
   
